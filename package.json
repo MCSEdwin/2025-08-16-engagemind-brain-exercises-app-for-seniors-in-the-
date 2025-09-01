@@ -1,0 +1,27 @@
+{
+  "name": "2025-08-16-engagemind-brain-exercises-app-for-seniors-in-the-",
+  "version": "1.0.0",
+  "description": "EngageMind: Brain Exercises App for Seniors in the $85B Market",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . --live"
+  },
+  "keywords": [
+    "ai-generated",
+    "landing-page",
+    "idea2mvp",
+    "azure-openai",
+    "health-&-wellness-technology"
+  ],
+  "author": "Idea2MVP AI System",
+  "license": "MIT",
+  "homepage": "https://dailyidea.AIFirstPartner.com/daily-ideas/2025-08-16/index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MCSEdwin/2025-08-16-engagemind-brain-exercises-app-for-seniors-in-the-.git"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
